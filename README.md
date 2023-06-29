@@ -15,7 +15,7 @@ I'm **Ngoc Dat**, a senior **Data Science student** 🚀 from Hanoi, Vietnam.
 
 - 👨🏽‍💻 I’m currently a senior **Data Science** student; 
 - 🤔 My interests are with Machine Learning, Deep Learning, Python etc..;
-- 📝 I’m pursuing a Bachelor's degree in Medical Imaging;
+- 📝 I’m pursuing a Bachelor's degree in Data Science in economics and business;
 - 💼 Open to work as a role of **Data Scientist** or **Data Analyst**;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
