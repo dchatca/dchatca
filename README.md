@@ -21,7 +21,7 @@ I'm **Ngoc Dat**, a senior **Data Science student** 🚀 from Hanoi, Vietnam.
 - 📫 Please email me if you have any questions.
 
 
-**Languages and Tools:**  
+**Languages and Tools** 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
@@ -31,20 +31,22 @@ I'm **Ngoc Dat**, a senior **Data Science student** 🚀 from Hanoi, Vietnam.
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 ![SQL Server](https://img.shields.io/badge/-SQL-1d586e.svg?style=flat&logo=SQL)
 
-## Frameworks
+**Frameworks**
+
 ![Numpy](https://img.shields.io/badge/-Numpy-55a2e0.svg?style=flat&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib)
 ![Plotly](https://img.shields.io/badge/Plotly-fca862.svg?style=flat&logo=plotly&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-d6882f.svg?style=flat&logo=Scikit-learn)
 
-### Contact me:
+**Contact me**
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenngocdat10052016@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-ngoc-48a803232/)
 
 
-### My GitHub Stats
+**My GitHub Stats**
+
 ![dchatca's github stats](https://github-readme-stats.vercel.app/api?username=dchatca&show_icons=true&hide_border=true)
 
 
